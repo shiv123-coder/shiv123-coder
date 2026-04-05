@@ -53,7 +53,6 @@
 </p>
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shiv123-coder&theme=radical&margin-w=8" />
 </p>
