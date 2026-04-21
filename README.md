@@ -118,6 +118,12 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiv123-coder&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
 ## 🏆 Achievements  
 
 - Strong full-stack & AI project development  
