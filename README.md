@@ -77,7 +77,7 @@
 </p>
 
 
-<!--## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical" />
@@ -95,7 +95,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
 [![](https://visitcount.itsvg.in/api?id=shiv123-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
