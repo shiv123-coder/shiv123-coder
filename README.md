@@ -1,74 +1,114 @@
-# 💫 About Me:
-👋 Hi, I’m Shivshankar Mali — Full Stack Developer & AI Enthusiast  <br>🎓 CSE Undergrad (2027) at BSIOTR, Pune  <br>🚀 Built impactful systems like MuktiTech (Digital Identity for Informal Workers)  <br>☁️ Google Cloud Generative AI Intern | AICTE Intern  <br>💡 Strong in Java, React, Node.js, Python & scalable application design  <br>🏆 Active Hackathon Participant (Gemini, UIDAI, Hero Campus, PANDORA)  <br><br>🤝 Open to internships & building real-world tech solutions  
+# 💫 About Me  
 
+🚀 **Shivshankar Mali** — *Full Stack Developer | AI Enthusiast*  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivcoder123_09629) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivshankar_mali_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivshankar-mali-b46198314) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Shiv_Core) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shiv_core) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivashankrmali7@gmail.com) 
+🎓 Computer Science Engineering Undergraduate *(2027)* — BSIOTR, Pune  
+💡 Passionate about building **scalable, real-world tech solutions**  
+☁️ Google Cloud Generative AI Intern | AICTE Intern  
+🏆 Active in **high-impact hackathons & innovation challenges**  
 
-# 🚀 Featured Projects:
+⚡ **What I do best:**  
+- Build **end-to-end full-stack applications**  
+- Design **AI-powered intelligent systems**  
+- Solve **real-world problems with scalable architecture**  
 
-### 🛒 LearnSphere – Course Selling Platform
-- Full-stack (React + Node.js)  
-- AI Tutor integration (Gemini API)  
+🤝 Open to **internships, collaborations & impactful projects**
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivshankar-mali-b46198314">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:shivashankrmali7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://instagram.com/shivshankar_mali_17">
+    <img src="https://img.shields.io/badge/Instagram-Life-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://x.com/Shiv_core">
+    <img src="https://img.shields.io/badge/X-Updates-black?style=for-the-badge&logo=x">
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🛒 LearnSphere — AI-Powered Learning Platform  
+- Full-stack *(React + Node.js)*  
+- Integrated **AI Tutor (Gemini API)**  
 - Secure authentication & dashboards  
 - Production-ready architecture  
 
-### 🔥 MuktiTech – Digital Identity System
-- QR-based worker verification  
-- Trust score system for informal workers  
-- Admin approval + PDF certification  
-- Built for real-world hackathon use case  
+---
 
-### 🏦 Management Systems Suite
-- Banking System (Java + DBMS)  
+### 🔥 MuktiTech — Digital Trust Identity System  
+- QR-based worker verification  
+- AI-driven **Trust Score system**  
+- Admin approval + PDF certification  
+- Built for real-world hackathon use  
+
+---
+
+### 🏦 Management Systems Suite  
+- Banking System *(Java + DBMS)*  
 - Blood Bank Management  
-- Attendance Management  
+- Attendance System  
 - Tourism & Restaurant Systems  
 
+---
 
-# 💼 Experience:
+## 💼 Experience  
 
-🔹 Google Cloud Generative AI Virtual Internship (2026)  
-🔹 AICTE Oasis Infobyte Internship  
-🔹 Developed multiple full-stack & AI-based applications  
+- Google Cloud Generative AI Virtual Internship (2026)  
+- AICTE Oasis Infobyte Internship  
+- Developed multiple full-stack & AI applications  
 
+---
 
-# 🏆 Hackathons:
+## 🏆 Hackathons  
 
 - Gemini 3 Hackathon  
 - UIDAI Data Hackathon  
 - Hero Campus Challenge Season 10  
 - PANDORA AI Hackathon  
 - VYOMA Hackathon  
-- Ideathon 3.0
-  
-# 💻 Tech Stack:
+- Ideathon 3.0  
 
-### 🚀 Core
+---
+
+## 💻 Tech Stack  
+
+### 🚀 Core  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Frontend
+### 🌐 Frontend  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🗄️ Database
+### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ Tools & Platforms
+### ☁️ Tools & Platforms  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical" />
@@ -76,25 +116,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical" />
 </p>
 
+---
 
-## 📊 GitHub Stats
+## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shiv123-coder&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical" />
-</p>
+- Strong full-stack & AI project development  
+- Active hackathon competitor  
+- Focus on real-world scalable solutions  
 
- ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shiv123-coder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shiv123-coder&theme=radical&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy) -->
+## ✨ Dev Quote  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-[![](https://visitcount.itsvg.in/api?id=shiv123-coder&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *"Code is not just about solving problems — it's about creating impact."*
