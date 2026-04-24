@@ -62,54 +62,45 @@
 <img src="https://skillicons.dev/icons?i=git,github,vercel,firebase" />
 
 ---
-## 🚀 FEATURED PROJECTS
+## 🚀 `FEATURED PROJECTS`
 
-### 🧠 LearnSphere — AI Course Platform
+<div align="center">
 
-* Built during **Gemini Hackathon**
-* AI-powered learning system with intelligent tutor
-* Full Stack Application *(React + Node.js)*
+| 🧠 Project            | 💡 Description                                                                           | 🛠️ Tech       |
+| --------------------- | ---------------------------------------------------------------------------------------- | -------------- |
+| **LearnSphere**       | AI-powered learning platform built during Gemini Hackathon with intelligent tutor system | React, Node.js |
+| **MuktiTech**         | Digital trust identity system with QR verification & trust scoring                       | Full Stack     |
+| **ATM Interface**     | Secure banking system using OOP & file handling                                          | Java           |
+| **Digital Library**   | Book management system with database connectivity                                        | JDBC, MySQL    |
+| **Blood Bank System** | JavaFX-based UI with backend database integration                                        | JavaFX, MySQL  |
+| **Attendance System** | Efficient classroom attendance management system                                         | Java, DBMS     |
 
----
-
-### 🔐 MuktiTech — Digital Trust System
-
-* QR-based identity verification system
-* Trust score evaluation model
-* Designed for real-world deployment (Hackathon project)
-
----
-
-### 🏦 Java Systems (Core Strength)
-
-* ATM Interface → OOP + File Handling
-* Digital Library System → JDBC + MySQL
-* Blood Bank Management → JavaFX + MySQL
-* Attendance System → DBMS-based automation
+</div>
 
 ---
 
-## 📚 ACADEMIC WORK
+## 🏆 `HACKATHON EXPERIENCE`
 
-* DBMS Laboratory Practicals
+<div align="center">
+
+✔ **Gemini Hackathon**
+✔ **UIDAI Data Hackathon**
+✔ **Hero Campus Challenge S10**
+✔ **PANDORA AI Hackathon**
+✔ **VYOMA Hackathon**
+✔ **Ideathon 3.0**
+
+</div>
+
+---
+
+## 📚 `ACADEMIC WORK`
+
+* DBMS Practicals
 * Artificial Intelligence Lab
 * Information Security Lab
-* Big Data Analytics (Hadoop Basics)
-* Web Technology (Servlet, JSP, PHP)
-
----
-
-## 🏆 HACKATHON EXPERIENCE
-
-✔ Gemini Hackathon
-✔ UIDAI Data Hackathon
-✔ Hero Campus Challenge Season 10
-✔ PANDORA AI Hackathon
-✔ VYOMA Hackathon
-✔ Ideathon 3.0
-
----
-
+* Big Data Analytics *(Hadoop basics)*
+* Web Technology *(Servlet, JSP, PHP)*
 ## 💼 `INTERNSHIPS`
 
 * 💻 **AICTE Oasis Infobyte Internship**
