@@ -62,54 +62,51 @@
 <img src="https://skillicons.dev/icons?i=git,github,vercel,firebase" />
 
 ---
-
-## 🚀 `FEATURED PROJECTS`
+## 🚀 FEATURED PROJECTS
 
 ### 🧠 LearnSphere — AI Course Platform
 
 * Built during **Gemini Hackathon**
-* AI-based learning system
-* Full Stack *(React + Node.js)*
+* AI-powered learning system with intelligent tutor
+* Full Stack Application *(React + Node.js)*
 
 ---
 
 ### 🔐 MuktiTech — Digital Trust System
 
-* QR-based identity verification
-* Trust score system
-* Built for real hackathon use
+* QR-based identity verification system
+* Trust score evaluation model
+* Designed for real-world deployment (Hackathon project)
 
 ---
 
 ### 🏦 Java Systems (Core Strength)
 
-* ATM Interface *(OOP + File Handling)*
-* Digital Library *(JDBC + MySQL)*
-* Blood Bank Management *(JavaFX + MySQL)*
-* Attendance System
+* ATM Interface → OOP + File Handling
+* Digital Library System → JDBC + MySQL
+* Blood Bank Management → JavaFX + MySQL
+* Attendance System → DBMS-based automation
 
 ---
 
-### 📚 Academic Work
+## 📚 ACADEMIC WORK
 
-* DBMS Practicals
-* AI Lab
+* DBMS Laboratory Practicals
+* Artificial Intelligence Lab
 * Information Security Lab
-* Big Data (Hadoop basics)
-* Web Tech (Servlet, JSP, PHP)
+* Big Data Analytics (Hadoop Basics)
+* Web Technology (Servlet, JSP, PHP)
 
 ---
 
-## 🏆 `HACKATHONS`
+## 🏆 HACKATHON EXPERIENCE
 
-```
 ✔ Gemini Hackathon
 ✔ UIDAI Data Hackathon
-✔ Hero Campus Challenge S10
+✔ Hero Campus Challenge Season 10
 ✔ PANDORA AI Hackathon
 ✔ VYOMA Hackathon
 ✔ Ideathon 3.0
-```
 
 ---
 
