@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:22c55e&height=200&section=header&text=SHIVSHANKAR%20MALI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Cybersecurity%20Learner&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:22c55e&height=200&section=header&text=SHIVSHANKAR%20MALI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+BOOTING...+%5D;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A7%A0;Java+%7C+DBMS+%7C+System+Design;Hackathon+Builder+%F0%9F%8F%86;Always+Learning+%E2%9A%A1" />
 
@@ -20,15 +20,13 @@
 
 ╔══════════════════════════════════════════════════════════════╗
 ║ NAME       │ Shivshankar Mali                               ║
-║ ROLE       │ Full Stack Developer + AI Builder              ║
+║ ROLE       │ Full Stack Developer + AI Enthusiast           ║
 ║ LOCATION   │ Pune, India 🇮🇳                               ║
 ║ EDUCATION  │ BSIOTR Pune (CSE 2027)                         ║
 ║ MISSION    │ Build scalable real-world tech solutions       ║
 ╚══════════════════════════════════════════════════════════════╝
 
-[+] Internship .... Google Cloud Generative AI (2026)
-[+] Experience .... AICTE Oasis Infobyte Internship
-[+] Core Strength . Java, DBMS, Full Stack Development
+[+] Strong Areas .. Java, DBMS, Full Stack Development
 [+] Currently ..... DSA + System Design + AI Integration
 [+] Goal .......... Crack top tech placement 🚀
 ```
@@ -59,9 +57,9 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
-### ☁️ Tools & Platforms
+### ☁️ Tools
 
-<img src="https://skillicons.dev/icons?i=firebase,vercel,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase" />
 
 ---
 
@@ -70,67 +68,59 @@
 ### 🧠 LearnSphere — AI Course Platform
 
 * Built during **Gemini Hackathon**
-* AI Tutor Integration (LLM based)
+* AI-based learning system
 * Full Stack *(React + Node.js)*
-* Secure authentication & dashboards
 
 ---
 
-### 🔐 MuktiTech — Digital Trust Identity System
+### 🔐 MuktiTech — Digital Trust System
 
-* QR-based worker verification
-* AI Trust Score system
-* Admin approval workflow + certification
+* QR-based identity verification
+* Trust score system
+* Built for real hackathon use
 
 ---
 
-### 🏦 Java Desktop Systems (OOP + DBMS)
+### 🏦 Java Systems (Core Strength)
 
-* ATM Interface *(AES Encryption)*
-* Digital Library System *(JDBC + MySQL)*
+* ATM Interface *(OOP + File Handling)*
+* Digital Library *(JDBC + MySQL)*
 * Blood Bank Management *(JavaFX + MySQL)*
-* Attendance Management System
+* Attendance System
 
 ---
 
-### 📚 Academic Labs (Well Documented)
+### 📚 Academic Work
 
 * DBMS Practicals
-* Artificial Intelligence Lab
+* AI Lab
 * Information Security Lab
-* Big Data Analytics *(Hadoop/Spark)*
-* Web Technology *(Servlet, JSP, PHP)*
+* Big Data (Hadoop basics)
+* Web Tech (Servlet, JSP, PHP)
 
 ---
 
-## 🏆 `HACKATHON EXPERIENCE`
+## 🏆 `HACKATHONS`
 
 ```
 ✔ Gemini Hackathon
 ✔ UIDAI Data Hackathon
-✔ Hero Campus Challenge Season 10
+✔ Hero Campus Challenge S10
 ✔ PANDORA AI Hackathon
 ✔ VYOMA Hackathon
 ✔ Ideathon 3.0
-
-STATUS: ⚡ ACTIVE BUILDER
 ```
 
 ---
 
 ## 💼 `INTERNSHIPS`
 
-* ☁️ **Google Cloud Generative AI Virtual Internship (2026)**
-  → Worked with LLMs, prompt engineering & AI apps
-
 * 💻 **AICTE Oasis Infobyte Internship**
-  → Built real-world Java systems:
-  • ATM Interface (AES Security)
-  • Digital Library System (JDBC + MySQL)
+  → Built Java-based real-world systems (ATM + Library)
 
-* 🧠 **Talent Battle — Java & DSA Development Internship**
-  → Strong focus on Data Structures & Algorithms
-  → Improved problem-solving & coding efficiency
+* 🧠 **Talent Battle — Java & DSA Internship**
+  → Focus on Data Structures & Algorithms
+  → Improved problem-solving & coding skills
 
 ---
 
@@ -139,14 +129,13 @@ STATUS: ⚡ ACTIVE BUILDER
 ```python
 class Shiv:
     def __init__(self):
-        self.focus = ["Full Stack", "AI Systems", "DSA"]
-        self.goal = "Placement + Real Impact"
+        self.focus = ["Full Stack", "AI", "DSA"]
+        self.goal = "Placement + Strong Career"
 
     def build(self):
-        return "Building scalable and secure systems 🚀"
+        return "Learning, building, improving 🚀"
 
-me = Shiv()
-print(me.build())
+print(Shiv().build())
 ```
 
 ---
@@ -156,20 +145,19 @@ print(me.build())
 ```
 Full Stack Dev     ███████████████████░ 90%
 Java + DBMS        █████████████████░░ 85%
-AI / ML            ███████████████░░░░ 75%
+AI Basics          ███████████████░░░░ 75%
 System Design      ████████████░░░░░░░ 65%
 DSA                █████████████░░░░░░ 70%
-Cybersecurity      ███████████░░░░░░░░ 60%
 ```
 
 ---
 
 ## 🏆 `ACHIEVEMENTS`
 
-* 🚀 Built multiple full-stack & AI-based projects
-* 🏆 Active hackathon participant
-* 🧠 Strong Java + DBMS foundation
-* 📈 Continuous improvement via DSA
+* Built multiple real-world full-stack projects
+* Active hackathon participant
+* Strong Java + DBMS foundation
+* Continuous DSA practice
 
 ---
 
@@ -183,29 +171,28 @@ Cybersecurity      ███████████░░░░░░░░ 60%
 
 ---
 
-## 🌐 `CONNECT WITH ME`
+## 🌐 `CONNECT`
 
 <p align="center">
   <a href="https://my-portfolio-one-gilt-73.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-22c55e?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge">
   </a>
   <a href="https://linkedin.com/in/shivashankr-mali-b46198314">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:shivashankrmali7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://instagram.com/shivshankar_mali_17">
-    <img src="https://img.shields.io/badge/Instagram-Life-E4405F?style=for-the-badge&logo=instagram">
-  </a>
-  <a href="https://x.com/Shiv_core">
-    <img src="https://img.shields.io/badge/X-Updates-black?style=for-the-badge&logo=x">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
   </a>
 </p>
 
 ---
 
 <div align="center">
+
+### ⭐ Made by Shivshankar Mali
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:7c3aed,100:0d1117&height=120&section=footer" />
 
