@@ -113,19 +113,46 @@
 ---
 
 ## 🎯 `CURRENT MISSION`
+<div align="center">
 
-```python
+<!-- 3D STYLE CARD -->
+<div style="
+  background: linear-gradient(145deg, #0d1117, #161b22);
+  border-radius: 20px;
+  padding: 25px;
+  width: 80%;
+  box-shadow: 
+    10px 10px 30px rgba(0,0,0,0.6),
+    -5px -5px 20px rgba(255,255,255,0.05);
+  border: 1px solid #30363d;
+  transform: perspective(1000px) rotateX(8deg);
+">
+
+<h2 style="color:#22c55e; font-family:monospace;">🎯 CURRENT MISSION</h2>
+
+<pre style="
+  color:#c9d1d9;
+  text-align:left;
+  font-size:14px;
+  line-height:1.6;
+  font-family: 'Courier New', monospace;
+">
+
 class Shiv:
     def __init__(self):
         self.focus = ["Full Stack", "AI", "DSA"]
         self.goal = "Placement + Strong Career"
 
     def build(self):
-        return "Learning, building, improving 🚀"
+        return "Learning → Building → Improving 🚀"
 
 print(Shiv().build())
-```
 
+</pre>
+
+</div>
+
+</div>
 ---
 
 ## 📊 `SKILL MATRIX`
