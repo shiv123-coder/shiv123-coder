@@ -1,10 +1,4 @@
-Got it — I’ll convert your entire README theme from green/purple to a **yellow + red premium theme** (clean + aggressive look 🔥). I’ll keep everything intact, just upgrade colors consistently.
 
-Here’s your **final polished `.md` file**:
-
----
-
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ef4444,100:facc15&height=200&section=header&text=SHIVSHANKAR%20MALI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
