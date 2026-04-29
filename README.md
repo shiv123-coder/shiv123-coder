@@ -45,7 +45,7 @@
 ---
 
 
-## ⚔️ `TECH STACK`
+<!--## ⚔️ `TECH STACK`
 
 ### 🚀 Core
 
@@ -63,7 +63,10 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,firebase" />
 
----
+--->
+## ⚔️ TECH STACK
+
+![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,react,nodejs,express,mysql,mongodb,git,github)
 
 ## 🚀 `FEATURED PROJECTS`
 
