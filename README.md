@@ -165,24 +165,9 @@ print(Shiv().build())
 
 ---
 
-## 📊 `SKILL MATRIX`
-
-```
-Full Stack Dev     ███████████████████░ 90%
-Java + DBMS        █████████████████░░ 85%
-AI Basics          ███████████████░░░░ 75%
-System Design      ████████████░░░░░░░ 65%
-DSA                █████████████░░░░░░ 70%
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiv123-coder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-## 🏆 LIVE GITHUB ACHIEVEMENTS
-
-![Stars](https://img.shields.io/github/stars/shiv123-coder/DriveZone-Project?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/shiv123-coder/DriveZone-Project?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/shiv123-coder/DriveZone-Project?style=for-the-badge)
-![PRs](https://img.shields.io/github/issues-pr/shiv123-coder/DriveZone-Project?style=for-the-badge)
 
 
 ## 🏆 `ACHIEVEMENTS`
