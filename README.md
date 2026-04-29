@@ -177,6 +177,14 @@ DSA                █████████████░░░░░░ 70%
 
 ---
 
+## 🏆 LIVE GITHUB ACHIEVEMENTS
+
+![Stars](https://img.shields.io/github/stars/shiv123-coder/DriveZone-Project?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/shiv123-coder/DriveZone-Project?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/shiv123-coder/DriveZone-Project?style=for-the-badge)
+![PRs](https://img.shields.io/github/issues-pr/shiv123-coder/DriveZone-Project?style=for-the-badge)
+
+
 ## 🏆 `ACHIEVEMENTS`
 
 * Built multiple real-world full-stack projects
