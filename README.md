@@ -44,13 +44,6 @@
 
 ---
 
-## 📈 CONTRIBUTION INSIGHTS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiv123-coder&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical)
 
 ## ⚔️ `TECH STACK`
 
