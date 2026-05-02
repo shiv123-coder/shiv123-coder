@@ -32,7 +32,7 @@
 [+] Goal .......... Crack top tech placement 🚀
 ````
 
-<!---
+---
 
 ## 🔴 `LIVE GITHUB STATS`
 
@@ -42,33 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true" />
 </p>
 
---->
+---
 
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-  <!-- Main Stats -->
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-  <!-- Streak Stats -->
-  <img height="180em" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=shiv123-coder&theme=radical&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-  <!-- Most Used Languages -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-  <!-- GitHub Activity Graph -->
-  <img height="180em"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=shiv123-coder&theme=react-dark&hide_border=true" />
-
-</p>
 
 
 <!--## ⚔️ `TECH STACK`
