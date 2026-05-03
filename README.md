@@ -42,6 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=shiv123-coder&theme=radical" />
 ---
 
 
