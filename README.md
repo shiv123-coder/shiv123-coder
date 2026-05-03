@@ -40,20 +40,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv123-coder&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=shiv123-coder&theme=radical&hide_border=true" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  
-  <img src="https://streak-stats.demolab.com?user=shiv123-coder&theme=radical&hide_border=true&cache_seconds=1800" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
----
-
 
 
 <!--## ⚔️ `TECH STACK`
