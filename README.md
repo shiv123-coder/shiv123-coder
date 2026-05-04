@@ -43,7 +43,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
 
 <!--## ⚔️ `TECH STACK`
 
