@@ -42,11 +42,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<!---
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shiv123-coder&theme=radical&no-frame=true&margin-w=10" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shiv123-coder" />
+--->
 
 ---
 
