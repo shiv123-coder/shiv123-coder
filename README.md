@@ -221,5 +221,3 @@ print(Shiv().build())
 
 </div>
 ```
-
----
