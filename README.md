@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv123-coder&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <!---
