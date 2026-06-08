@@ -29,7 +29,6 @@
 
 [+] Strong Areas .. Java, DBMS, Full Stack Development
 [+] Currently ..... DSA + System Design + AI Integration
-[+] Goal .......... Crack top tech placement 🚀
 ````
 
 ---
