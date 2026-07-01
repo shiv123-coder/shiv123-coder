@@ -1,11 +1,31 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ef4444,100:facc15&height=200&section=header&text=SHIVSHANKAR%20MALI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ef4444,100:facc15&height=200&section=header&text=SHIVSHANKAR%20MALI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+BOOTING...+%5D;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A7%A0;Java+%7C+DBMS+%7C+System+Design;Hackathon+Builder+%F0%9F%8F%86;Always+Learning+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=FACC15&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+BOOTING...+%5D;Software+Engineer;Full+Stack+Developer;CSE+Undergrad+(2027);AI+%26+ML+Integration" />
 
 <br/>
+
+<p align="center">
+  <a href="https://my-portfolio-one-gilt-73.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://shiv123-coder.github.io/Shivshankar_Mali_CSE_Resume_2027.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivshankar-mali-b46198314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shivashankrmali7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shiv123-coder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/shivshankar_Mali/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shiv123-coder&label=PROFILE+VIEWS&color=ef4444&style=flat-square)
 
@@ -13,27 +33,27 @@
 
 ---
 
-## 🧑‍💻 `SYSTEM INFO`
+## About Me
 
-```bash
-┌──(shiv㉿builder)-[~/portfolio]
-└─$ whoami --full-details
+**Software Engineer & Full Stack Developer** specializing in building scalable, AI-powered enterprise applications. Currently pursuing a B.E. in Computer Engineering at JSPM BSIOTR (Expected 2027) in Pune, India.
 
-╔══════════════════════════════════════════════════════════════╗
-║ NAME       │ Shivshankar Mali                               ║
-║ ROLE       │ Full Stack Developer + AI Enthusiast           ║
-║ LOCATION   │ Pune, India 🇮🇳                               ║
-║ EDUCATION  │ BSIOTR Pune (CSE 2027)                         ║
-║ MISSION    │ Build scalable real-world tech solutions       ║
-╚══════════════════════════════════════════════════════════════╝
-
-[+] Strong Areas .. Java, DBMS, Full Stack Development
-[+] Currently ..... DSA + System Design + AI Integration
-````
+I focus on clean architecture, high-performance APIs, and secure deployment, bridging the gap between advanced AI integrations and robust backend systems. 
 
 ---
 
-## 🔴 `LIVE GITHUB STATS`
+## Technical Arsenal
+
+<div align="center">
+
+| Core Languages | Frontend | Backend & APIs | Databases & Cloud | Tools & Environments |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <br> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/> <br> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <br> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/> <br> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <br> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> |
+
+</div>
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical&hide_border=true" />
@@ -41,181 +61,71 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=shiv123-coder&theme=radical&hide_border=true" />
 </p>
 
-
-<!---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiv123-coder&theme=radical&no-frame=true&margin-w=10" />
-</p>
---->
-
----
-
-<!--## ⚔️ `TECH STACK`
-
-### 🚀 Core
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
-
-### 🌐 Full Stack
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-### ☁️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase" />
-
---->
-## ⚔️ TECH STACK
-
-![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,react,nodejs,express,mysql,mongodb,git,github)
-
-## 🚀 `FEATURED PROJECTS`
-
-<div align="center">
-
-| 🧠 Project            | 💡 Description                                                                           | 🛠️ Tech       |
-| --------------------- | ---------------------------------------------------------------------------------------- | -------------- |
-| **LearnSphere**       | AI-powered learning platform built during Gemini Hackathon with intelligent tutor system | React, Node.js |
-| **MuktiTech**         | Digital trust identity system with QR verification & trust scoring                       | Full Stack     |
-| **ATM Interface**     | Secure banking system using OOP & file handling                                          | Java           |
-| **Digital Library**   | Book management system with database connectivity                                        | JDBC, MySQL    |
-| **Blood Bank System** | JavaFX-based UI with backend database integration                                        | JavaFX, MySQL  |
-| **Attendance System** | Efficient classroom attendance management system                                         | Java, DBMS     |
-
-</div>
-
----
-
-## 🏆 `HACKATHON EXPERIENCE`
-
-<div align="center">
-
-✔ **Gemini Hackathon**
-✔ **UIDAI Data Hackathon**
-✔ **Hero Campus Challenge S10**
-✔ **PANDORA AI Hackathon**
-✔ **VYOMA Hackathon**
-✔ **Ideathon 3.0**
-
-</div>
-
----
-
-## 📚 `ACADEMIC WORK`
-
-* DBMS Practicals
-* Artificial Intelligence Lab
-* Information Security Lab
-* Big Data Analytics *(Hadoop basics)*
-* Web Technology *(Servlet, JSP, PHP)*
-
----
-
-## 💼 `INTERNSHIPS`
-
-* 💻 **AICTE Oasis Infobyte Internship**
-  → Built Java-based real-world systems (ATM + Library)
-
-* 🧠 **Talent Battle — Java & DSA Internship**
-  → Focus on Data Structures & Algorithms
-  → Improved problem-solving & coding skills
-
----
-
-## 🎯 `CURRENT MISSION`
-
-<div align="center">
-
-<div style="
-  background: linear-gradient(145deg, #0d1117, #161b22);
-  border-radius: 20px;
-  padding: 25px;
-  width: 80%;
-  box-shadow: 
-    10px 10px 30px rgba(0,0,0,0.6),
-    -5px -5px 20px rgba(255,255,255,0.05);
-  border: 1px solid #30363d;
-  transform: perspective(1000px) rotateX(8deg);
-">
-
-<h2 style="color:#facc15; font-family:monospace;">🎯 CURRENT MISSION</h2>
-
-<pre style="
-  color:#f1f5f9;
-  text-align:left;
-  font-size:14px;
-  line-height:1.6;
-  font-family: 'Courier New', monospace;
-">
-
-class Shiv:
-    def __init__(self):
-        self.focus = ["Full Stack", "AI", "DSA"]
-        self.goal = "Placement + Strong Career"
-
-    def build(self):
-        return "Learning → Building → Improving 🚀"
-
-print(Shiv().build())
-
-</pre>
-
-</div>
-
-</div>
-
----
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiv123-coder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
+## Featured Projects
 
-## 🏆 `ACHIEVEMENTS`
-
-* Built multiple real-world full-stack projects
-* Active hackathon participant
-* Strong Java + DBMS foundation
-* Continuous DSA practice
-
----
-
-## 💬 `DEV QUOTE OF THE DAY`
-
+### Full-Stack & AI Platforms
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **LoanIQ** | Enterprise AI-Powered Loan Origination System with automated underwriting workflows and biometric validation. | React, Node.js, Firebase, OCR, NLP | [Live Demo](https://loan-iq-ai.vercel.app) <br> [Repo](https://github.com/shiv123-coder/LoanIQ-AI) |
+| **VisionKirana** | AI-Powered Micro-Lending Intelligence platform dynamically assessing unbanked store loan eligibility via computer vision. | React 19, FastAPI, PostgreSQL, OpenCV | [Live Demo](https://vision-kirana.vercel.app/) <br> [Repo](https://github.com/shiv123-coder/vision-kirana) |
+| **Mukti Portal** | Digital trust ecosystem generating trust signals from verified work history for informal workers (VYOMA 2026). | React, Firebase, Node.js, Python Flask | [Live Demo](https://mukti-portal.vercel.app/) <br> [Repo](https://github.com/shiv123-coder/Mukti-Portal) |
+| **SkyBanking** | Secure enterprise banking application featuring peer-to-peer transfers, OTP verification, and ACID transactions. | Java 21, PostgreSQL, Servlets, Stripe | [Live Demo](https://skybanking.onrender.com) <br> [Repo](https://github.com/shiv123-coder/skybanking) |
+| **MidwayCafe** | Complete restaurant e-commerce system demonstrating Laravel MVC architecture, Blade rendering, and payment workflows. | PHP, Laravel, PostgreSQL | [Live Demo](https://midwaycafe-restaurant-e-commerce-system.onrender.com/) <br> [Repo](https://github.com/shiv123-coder/Restaurant_Ecommerce_System_Laravel) |
+
+</div>
+
+<br>
+
+### Enterprise & Core Java Systems
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **DriveZone** | Enterprise car showroom management platform with secure authentication, enquiry handling, and inventory control. | Java, JSP, Servlets, Tomcat | [Live Demo](https://drivezone-project.onrender.com/) <br> [Repo](https://github.com/shiv123-coder/DriveZone) |
+| **Blood Bank** | Robust JavaFX desktop application for handling donor tracking, real-time inventory, and recipient request pipelines. | Java 17+, JavaFX, MySQL, JDBC | [Repo](https://github.com/shiv123-coder/Blood-Bank-Management) |
+| **Attendance** | Enterprise-grade desktop management software focusing on real-time classroom strength and secure database flows. | Java 8+, JavaFX, MySQL, JDBC | [Repo](https://github.com/shiv123-coder/Attendance-Management-JAVA) |
 
 </div>
 
 ---
 
-## 🌐 `CONNECT`
+## Professional Experience
 
-<p align="center">
-  <a href="https://my-portfolio-one-gilt-73.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-facc15?style=for-the-badge">
-  </a>
-  <a href="https://linkedin.com/in/shivashankr-mali-b46198314">
-    <img src="https://img.shields.io/badge/LinkedIn-ef4444?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:shivashankrmali7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-facc15?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://instagram.com/shivshankar_mali_17">
-    <img src="https://img.shields.io/badge/Instagram-ef4444?style=for-the-badge&logo=instagram">
-  </a>
-</p>
+* **Talent Battle Pvt. Ltd.** | *Java & DSA Intern*
+  * Strengthened core Java and OOP concepts by implementing foundational Data Structures and optimizing algorithms.
+  * *[View Certificate](https://drive.google.com/file/d/1qzONcMVjVLykMn06f6GnNJDo4S2D311v/view?usp=sharing)*
+
+* **Oasis Infobyte** | *Java Development Intern*
+  * Built modular Java applications following clean code principles and industry best practices.
+  * *[View Certificate](https://drive.google.com/file/d/1uV9Ec-MV_9EkuHjdvtsWhNtTsC1ZLwuj/view?usp=sharing)*
+
+---
+
+## Key Achievements & Hackathons
+
+- **[TCS CodeVita Rank 2142](https://drive.google.com/file/d/1rH2a06f-mDsVEqGgX6KnBwNgQuLwVV1B/view?usp=sharing)** — Secured a Global Rank of 2142 in the International Coding Contest by Tata Consultancy Services (TCS).
+- **[100 Days LeetCode Challenge](https://drive.google.com/file/d/1Rs17OSfri9b4_rHCRNbOCamKnpvfDRWB/view?usp=sharing)** — Earned the 50 Days Coding Badge across two consecutive years (2025 & 2026).
+- **[VYOMA 2026 Prototype Competition](https://drive.google.com/file/d/1lhM2ur-aR0Zgo9dAX3g1G5qyL9Rt7902/view?usp=sharing)** — Built the Mukti Portal focusing on social and financial inclusion.
+- **[MaTPO Aptitude Idol 2025](https://drive.google.com/file/d/1e7Ol6XY2tbdIbbPpOXzWvZqQlFrdBOVI/view?usp=sharing)** — Active participant in the national-level aptitude challenge.
+- **Hackathons:** TenZorX AI Hackathon (Team CodeStorm - LoanIQ) & UIDAI Hackathon.
 
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
-### ⭐ Made by Shivshankar Mali
+<br>
+
+<div align="center">
+
+### Developed & Maintained by Shivshankar Mali
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ef4444,100:0d1117&height=120&section=footer" />
 
