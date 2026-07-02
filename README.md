@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://my-portfolio-one-gilt-73.vercel.app/" target="_blank">
+  <a href="https://shivshankar-mali-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://shiv123-coder.github.io/Shivshankar_Mali_CSE_Resume_2027.pdf" target="_blank">
