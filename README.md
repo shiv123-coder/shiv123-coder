@@ -66,7 +66,6 @@ I focus on clean architecture, high-performance APIs, and secure deployment, bri
 ---
 
 ## Featured Projects
-
 ### Full-Stack & AI Platforms
 <div align="center">
 
@@ -77,8 +76,10 @@ I focus on clean architecture, high-performance APIs, and secure deployment, bri
 | **Mukti Portal** | Digital trust ecosystem generating trust signals from verified work history for informal workers (VYOMA 2026). | React, Firebase, Node.js, Python Flask | [Live Demo](https://mukti-portal.vercel.app/) <br> [Repo](https://github.com/shiv123-coder/Mukti-Portal) |
 | **SkyBanking** | Secure enterprise banking application featuring peer-to-peer transfers, OTP verification, and ACID transactions. | Java 21, PostgreSQL, Servlets, Stripe | [Live Demo](https://skybanking.onrender.com) <br> [Repo](https://github.com/shiv123-coder/skybanking) |
 | **MidwayCafe** | Complete restaurant e-commerce system demonstrating Laravel MVC architecture, Blade rendering, and payment workflows. | PHP, Laravel, PostgreSQL | [Live Demo](https://midwaycafe-restaurant-e-commerce-system.onrender.com/) <br> [Repo](https://github.com/shiv123-coder/Restaurant_Ecommerce_System_Laravel) |
+| **Coral Reef Mapping** | Enterprise Coral Reef Admin Portal and Health Mapping Framework for tracking and analyzing reef ecosystems. | React, Next.js, Node.js | [Live Demo](https://coral-reef-frontend.vercel.app/) <br> [Repo](https://github.com/shiv123-coder/coral-reef-health-mapping) |
 
 </div>
+
 
 <br>
 
