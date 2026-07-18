@@ -113,7 +113,7 @@ I focus on clean architecture, high-performance APIs, and secure deployment, bri
 - **[100 Days LeetCode Challenge](https://drive.google.com/file/d/1Rs17OSfri9b4_rHCRNbOCamKnpvfDRWB/view?usp=sharing)** — Earned the 50 Days Coding Badge across two consecutive years (2025 & 2026).
 - **[VYOMA 2026 Prototype Competition](https://drive.google.com/file/d/1lhM2ur-aR0Zgo9dAX3g1G5qyL9Rt7902/view?usp=sharing)** — Built the Mukti Portal focusing on social and financial inclusion.
 - **[MaTPO Aptitude Idol 2025](https://drive.google.com/file/d/1e7Ol6XY2tbdIbbPpOXzWvZqQlFrdBOVI/view?usp=sharing)** — Active participant in the national-level aptitude challenge.
-- **Hackathons:** TenZorX AI Hackathon (Team CodeStorm - LoanIQ) & UIDAI Hackathon.
+- **Hackathons:** **[TenZorX AI Hackathon (Team CodeStorm - LoanIQ)](https://drive.google.com/file/d/1HUlUk8fwqefLBVxeIl4censhd-O7jdY6/view?usp=sharing)** & UIDAI Hackathon.
 
 ---
 
