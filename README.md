@@ -52,6 +52,19 @@ I focus on clean architecture, high-performance APIs, and secure deployment, bri
 </div>
 
 ---
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv123-coder&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiv123-coder&theme=radical" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiv123-coder&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiv123-coder&theme=radical&utcOffset=5.5" width="49%" />
+</p>
+
+
 
 ## GitHub Analytics
 
