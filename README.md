@@ -65,9 +65,6 @@ I focus on clean architecture, high-performance APIs, and secure deployment, bri
 </p>
 
 
-
-## GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=shiv123-coder&theme=radical&hide_border=true" />
 </p>
