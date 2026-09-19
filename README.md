@@ -69,12 +69,9 @@ I focus on clean architecture, high-performance APIs, and secure deployment, bri
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiv123-coder&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiv123-coder&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=shiv123-coder&theme=radical&hide_border=true" />
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shiv123-coder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
