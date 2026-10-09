@@ -130,12 +130,12 @@ Computer Engineering undergraduate at **JSPM's Bhivarabai Sawant Institute of Te
 
 <br/>
 
-## GitHub Activity
-
-[![GitHub Profile](https://img.shields.io/badge/View-GitHub_Contribution_Calendar-181717?style=for-the-badge&logo=github)](https://github.com/shiv123-coder)
-
-[View full contribution calendar →](https://github.com/shiv123-coder)
-
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shiv123-coder&theme=github-compact"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </div>
 
 ---
