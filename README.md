@@ -43,7 +43,23 @@ Computer Engineering undergraduate at **JSPM's Bhivarabai Sawant Institute of Te
 | **Tools**          | Maven, IntelliJ IDEA, VS Code, Eclipse                              |
 
 ---
+---
 
+## LeetCode Info
+
+<div align="center">
+
+<a href="https://leetcode.com/u/shivshankar_Mali/">
+<img src="https://leetcard.jacoblin.cool/shivshankar_Mali?theme=dark&font=JetBrains_Mono&ext=heatmap&border=1&radius=8" alt="Shivshankar Mali LeetCode statistics, solved problems and submission heatmap" width="500" />
+</a>
+
+<br/>
+
+[View LeetCode Profile](https://leetcode.com/u/shivshankar_Mali/)
+
+</div>
+
+---
 ## Featured Projects
 
 ### Full-Stack & AI Platforms
@@ -99,44 +115,30 @@ Computer Engineering undergraduate at **JSPM's Bhivarabai Sawant Institute of Te
 * **VYOMA 2026 Prototype Competition** — Developed Mukti Portal for work verification and social/financial inclusion. [Certificate](https://drive.google.com/file/d/1lhM2ur-aR0Zgo9dAX3g1G5qyL9Rt7902/view?usp=sharing)
 * **MaTPO Aptitude Idol 2025** — Participated in a national-level aptitude challenge. [Certificate](https://drive.google.com/file/d/1e7Ol6XY2tbdIbbPpOXzWvZqQlFrdBOVI/view?usp=sharing)
 
----
 
-## LeetCode Info
-
-<div align="center">
-
-<a href="https://leetcode.com/u/shivshankar_Mali/">
-<img src="https://leetcard.jacoblin.cool/shivshankar_Mali?theme=dark&font=JetBrains_Mono&ext=heatmap&border=1&radius=8" alt="Shivshankar Mali LeetCode statistics, solved problems and submission heatmap" width="500" />
-</a>
-
-<br/>
-
-[View LeetCode Profile](https://leetcode.com/u/shivshankar_Mali/)
-
-</div>
-
----
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv123-coder&theme=radical" width="98%" alt="GitHub profile contribution summary" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv123-coder&theme=radical" width="49%" alt="GitHub statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiv123-coder&theme=radical" width="49%" alt="Most used languages" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiv123-coder&theme=radical" width="49%" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiv123-coder&theme=radical" width="49%" alt="Repository language distribution" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiv123-coder&theme=radical" width="49%" alt="Most used languages in commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiv123-coder&theme=radical&utcOffset=5.5" width="49%" alt="GitHub productive time" />
+</p>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=shiv123-coder&theme=radical&hide_border=true" width="80%" alt="GitHub contribution streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shiv123-coder&theme=radical&hide_border=true" width="80%" alt="GitHub contribution streak" />
+</p>
 
-<br/>
+---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/ef4444/shiv123-coder" alt="GitHub contribution calendar for shiv123-coder" width="100%" />
-
-</div>
 
 ---
 
