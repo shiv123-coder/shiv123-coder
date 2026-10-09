@@ -130,7 +130,9 @@ Computer Engineering undergraduate at **JSPM's Bhivarabai Sawant Institute of Te
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv123-coder&theme=redical&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+<a href="https://github.com/shiv123-coder">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiv123-coder&theme=redical&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</a>
 
 </div>
 
